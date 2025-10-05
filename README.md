@@ -4,7 +4,7 @@ In this repository, you will find a data analysis project which was inspired by 
 
 For the full report [click here](https://github.com/curiostegui/Instacart-customer-segmentation-analysis/blob/main/analysis-report.md) 
 
-To access the Tableau dashboard click here
+To access the Tableau dashboard [click here](https://public.tableau.com/views/Instacart_Dashboard/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## Objective
 
