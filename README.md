@@ -25,7 +25,7 @@ Segmented customers to understand shopping behaviors and identify targeted strat
 - Uncovered order distribution patterns by day and hour, showing peak shopping times.
 
  ## Impact
-Analyzed customer shopping patterns and delivered insights in the form of guided marketing, retention ideas and inventory reccommendations.
+Analyzed customer shopping patterns and delivered insights in the form of guided marketing, retention ideas and inventory recommendations.
  
  
  #### Keywords: Python, Tableau, RFM Analysis, Machine Learning, Decision Tree, Clustering, PCA, Customer Segmentation, Data Visualization
