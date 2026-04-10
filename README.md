@@ -1,4 +1,4 @@
-## Instacart Customer Segmentation Analysis
+## Customer Segmentation: Using K-Means Clustering & Decision Trees to Profile Customer Behavior
 
 In this repository, you will find a data analysis project which was inspired by the Market Basket Classification Kaggle competition. Below you can find more information.
 
